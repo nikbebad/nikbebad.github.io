@@ -21,22 +21,20 @@ parallax_image_two: assets/images/startup3.jpg
 
 project_one: "Glasses Shop"
 project_one_url: https://github.com/nikbegood/sv-optika-site
-project_one_icon: location_on
+
 
 project_two: Photo Gallery
 project_two_url: https://github.com/nikbegood/Jekyll-VueJs  
-project_two_icon: photo_camera
+
 
 
 project_three: Travel Blog 
 project_three_url: https://github.com/nikbegood/blog-with-pup
-project_three_icon: hotel
 
 
 project_four: Fourth Project
-project_four_description: Describe your project!
-project_four_url: https://github.com/jameshamann/jekyll-material-theme
-project_four_icon: restaurant
+project_four_url: https://github.com/nikbegood/sport-shop
+
 
 portfolio_heading: Portfolio
 portfolio_type: cards
